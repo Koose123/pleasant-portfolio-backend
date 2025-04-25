@@ -5,8 +5,8 @@
   "description": "this is a backend emailing service",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --watch index.js ",
-    "dev": "nodemon  index.js ",
+    "start": "npx nodemon --watch index.js ",
+    "dev": "npx nodemon  index.js ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "pleasant",

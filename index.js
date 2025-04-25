@@ -45,5 +45,5 @@ app.post('/contact',async (req,res)=>{
 })
 
 app.listen(port,()=>{
-    console.log(`erver is runing on port ${port}`)
+    console.log(`server is runing on port ${port}`)
 })
